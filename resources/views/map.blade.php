@@ -16,13 +16,13 @@
 <script>
     function myMap() {
         const firebaseConfig = {
-            apiKey: "AIzaSyCjTL5tsWA5YZ1epR9iAp8EWrLBfIoPMXA",
-            authDomain: "transport-app-fe296.firebaseapp.com",
-            projectId: "transport-app-fe296",
-            storageBucket: "transport-app-fe296.appspot.com",
-            messagingSenderId: "516087335768",
-            appId: "1:516087335768:web:a1c565398bdfb26360332d",
-            measurementId: "G-2SLBPKE5Z4"
+            apiKey: "AI222222222222222222222222222222fIoPMXA",
+            authDomain: "tra2222222222222222p.com",
+            projectId: "tra22222222296",
+            storageBucket: "trans222222222pot.com",
+            messagingSenderId: "5160222222768",
+            appId: "1:512222222222222222222226360332d",
+            measurementId: "G-2222222222222222Z4"
         };
 
         // Initialize Firebase
@@ -83,7 +83,7 @@
     }
 </script>
 <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDHZ4rfHDSWAqSl19aw9cBg71derwKV3B4&callback=myMap&v=beta"
+      src="https://maps.googleapis.com/maps/api/js?key=your_map_key&callback=myMap&v=beta"
       async
     ></script>
 @stop
